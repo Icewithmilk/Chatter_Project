@@ -339,20 +339,6 @@ textarea:focus {
     margin-top: 5px;
 }
 
-.search_results_footer {
-    padding: 5px 4px 0px 4px;
-    height: 30px;
-    border: 1px solid #DADADA;
-    border-top: none;
-    background-color: #20AAE5;
-    text-align: center;
-}
-
-.search_results_footer a {
-    color: #fff;
-}
-
-
 .liveSearchProfilePic img {
     height: 50px;
     border-radius: 25px;
