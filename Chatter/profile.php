@@ -96,9 +96,9 @@ if(isset($_POST['respond_request'])) {
   <div class="modal-dialog">
     <div class="modal-content">
 
-      <div class="modal-header">
+      <div class="modal-header primaryThemeBgColor">
         <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-        <h4 class="modal-title" id="postModalLabel">Post to them!</h4>
+        <h4 class="modal-title text-white" id="postModalLabel">Post to them!</h4>
       </div>
 
       <div class="modal-body">

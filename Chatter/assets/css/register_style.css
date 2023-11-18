@@ -50,7 +50,7 @@ a {
 .login_header {
     font-family: 'Bellota_LightItalic', sans-serif;
     width: 100%;
-    height: 90px;
+    height: auto;
     background-color: #3498db;
     color: #fff;
     text-align: center;
